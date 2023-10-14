@@ -1,10 +1,4 @@
-import {
-  BrowserRouter,
-  Link,
-  Route,
-  Routes,
-  useParams,
-} from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Send } from "./Send";
 
 // Create a Home component
